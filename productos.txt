@@ -1,0 +1,3 @@
+1|pantalon de mezclilla|300|ropa casual
+2|playera tipo polo blanca|145|ropa casual
+3|pantalones cortos|170|ropa de verano
